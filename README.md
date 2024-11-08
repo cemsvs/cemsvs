@@ -1,11 +1,11 @@
 ENG:
 - 👋 Hi, I’m @XemQvr
 - 👀 I’m interested in software.
-- 🌱 I’m currently learning python.
-- 📫 You can reach me via discord. Neutronless#5555
+- 🌱 I’m currently learning c.
+- 📫 You can reach me via discord.
 
 TR:
 - 👋 Merhaba, ben @XemQvr
 - 👀 Yazılımla ilgileniyorum.
-- 🌱 Şu anda python öğreniyorum.
-- 📫 Discord üzerinden bana ulaşabilirsiniz. Neutronless#5555
+- 🌱 Şu anda c öğreniyorum.
+- 📫 Discord üzerinden bana ulaşabilirsiniz.
