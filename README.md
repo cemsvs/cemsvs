@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @XemQvr
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m @cemsvs
+- 🌱 I'm currently working in web development.
+- ⚜️ I have some basic knowledge of C programming language.
+- ▶️ I also have a youtube gaming channel with over 7000 subscribers. (CemOver)
