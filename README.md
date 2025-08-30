@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cemsvs
-- 🌱 I'm currently working in web development.
-- ⚜️ I have some basic knowledge of C programming language.
-- ▶️ I also have a youtube gaming channel with over 7300 subscribers. (CemOver)
+- 🌱 I'm currently working in game development.
+- ⚜️ I have some basic knowledge of C/C# and Python programming language.
+- ▶️ I also have a youtube gaming channel with over 7400 subscribers. (CemOver)
